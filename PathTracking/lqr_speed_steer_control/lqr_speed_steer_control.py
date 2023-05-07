@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import scipy.linalg as la
 
-sys.path.append("../../PathPlanning/CubicSpline/")
+sys.path.append("PathPlanning/CubicSpline/")
 
 try:
     import cubic_spline_planner
